@@ -1,12 +1,12 @@
 ## React JS image validation
 
-#### `Demo:` https://dmitriyshkredov.github.io/react-image-validation/
+#### `Demo:` https://dmitriyshkredov.github.io/react-input-file/
 
 #### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
 ---
 
-#### `git clone https://github.com/DmitriyShkredov/react-image-validation.git`
+#### `git clone https://github.com/DmitriyShkredov/react-input-file.git`
 
 #### `npm install`
 
