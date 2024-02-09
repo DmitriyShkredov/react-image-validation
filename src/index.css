@@ -7,6 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: #ffffff;
   padding: 0;
+  user-select: none;
 }
 
 * {
@@ -22,4 +23,15 @@ p,
 button {
   margin: 0;
   padding: 0;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: radial-gradient(#39a1e1, #094bbd);
 }
