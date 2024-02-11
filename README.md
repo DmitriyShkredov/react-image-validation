@@ -2,7 +2,7 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-input-file/
 
-#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
+#### `Телеграм:` [@tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/48)
 
 #### `Видео:` [YouTube](https://youtu.be/v-k49sNWXnk)
 
